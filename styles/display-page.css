@@ -1,0 +1,52 @@
+main{
+	font-size: 0;
+	padding: 30px;
+
+}
+
+.container{
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inner-one{
+	font-size: 0;
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	border: 1px solid black;
+
+}
+
+.inner-first{
+	background-color: green;
+	font-size: 0;
+}
+
+.inner-second{
+	background-color: blue;
+	font-size: 0;
+}
+
+.inner-two{
+	font-size: 0;
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.first{
+	background-color: grey;
+}
+
+.second{
+	background-color: black;
+}
+
+.third{
+	background-color: orange;
+}
